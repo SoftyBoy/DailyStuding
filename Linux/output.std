@@ -1,0 +1,7 @@
+find: ‘/etc/vmware-tools/GuestProxyData/trusted’: Permission denied
+/etc/cron.daily/passwd
+find: ‘/etc/polkit-1/localauthority’: Permission denied
+find: ‘/etc/cups/ssl’: Permission denied
+/etc/passwd
+find: ‘/etc/ssl/private’: Permission denied
+/etc/pam.d/passwd
